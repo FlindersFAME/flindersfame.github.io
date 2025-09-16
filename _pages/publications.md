@@ -7,6 +7,23 @@ author_profile: true
 
 Check out these amazing publications from our FAME-ous researchers!
 
+## 2025
+
+### Reprogramming resistance: phage-antibiotic synergy targets efflux systems in ESKAPEE pathogens
+<small>Anita Tarasenko, Bhavya N Papudeshi, Susanna R Grigson, Vijini Mallawaarachchi, Abbey LK Hutton, Morgyn S Warner, Jeremy J Barr, Jon Iredell, Bart Eijkelkamp, Robert A Edwards (2025), [mBio](https://doi.org/10.1128/mbio.01822-25){:target="_blank"}</small>
+
+### Computational function prediction of bacteria and phage proteins
+<small>Susanna R Grigson, George Bouras, Bas E Dutilh, Robert D Olson, Robert A Edwards (2025), [Microbiology and Molecular Biology Reviews](https://doi.org/10.1128/mmbr.00022-25){:target="_blank"}</small>
+
+### GraphBin-Tk: assembly graph-based metagenomic binning toolkit
+<small>Vijini Mallawaarachchi, Anuradha Wickramarachchi, Robert McArthur, Yapeng Lang, Katherine Caley, Gavin Huttley (2025), [Bioinformatics Advances](https://doi.org/10.21105/joss.07713){:target="_blank"}</small>
+
+### Draft genomes of five bacteria isolated from Carcharodon carcharias (white shark) and Carcharhinus brachyurus (bronze whaler shark)
+<small>Emma N Kerr, Ryan D Hesse, Jessica AP Carlson-Jones, Bhavya Nalagampalli Papudeshi, Paul A Butcher, Michael P Doane, Elizabeth A Dinsdale (2025), [Microbiology Resource Announcements](https://doi.org/10.1128/mra.00226-25){:target="_blank"}</small>
+
+### Sphae: an automated toolkit for predicting phage therapy candidates from sequencing data
+<small>Bhavya Papudeshi, Michael J Roach, Vijini Mallawaarachchi, George Bouras, Susanna R Grigson, Sarah K Giles, Clarice M Harker, Abbey LK Hutton, Anita Tarasenko, Laura K Inglis, Alejandro A Vega, Cole Souza, Lance Boling, Hamza Hajama, Ana Georgina Cobián Güemes, Anca M Segall, Elizabeth A Dinsdale, Robert A Edwards (2025), [Bioinformatics Advances](https://doi.org/10.1093/bioadv/vbaf004){:target="_blank"}</small>
+
 ## 2024
 
 ### Complementary Non-invasive Fish Monitoring Distinguishes Depth-Dependent Fish Communities
