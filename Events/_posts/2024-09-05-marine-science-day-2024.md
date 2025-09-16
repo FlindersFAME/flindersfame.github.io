@@ -1,11 +1,11 @@
 ---
 layout: single
 title: "Boosting Bioinformatics Skills: Python Workshop Recap"
-author: Bhavya Papudeshi
-excerpt: We recently hosted a one-day Python workshop to equip participants with foundational programming knowledge to support their research endeavors.
+author: Emma Kerr
+excerpt: Marine Science Day 2024 was a huge success! Seven CSE PhD students and faculty advisor Professor Dinsdale travelled to the Lincoln Marine Science Centre.
 expires: 2050-01-01
 header:
-    teaser: /assets/images/combine_python_2.jpg
+    teaser: /assets/images/msd_2024_1.jpg
 ---
 
 Marine Science Day 2024 was a huge success! Seven CSE PhD students and faculty advisor Professor Dinsdale travelled to the Lincoln Marine Science Centre, located on Barngarla land, to deliver a fun filled day of educational activities to the public. The event was attended by 320 members of the Port Lincoln community who learned about microbes, trophic ecology, coastal restoration, and Elasmobranch ecology. All attendees received a free activity book filled with information about marine research at Flinders University. The book also includes puzzles, colouring pages, and activities for young children to encourage their excitement and enthusiasm for marine science.
