@@ -9,6 +9,12 @@ Check out these amazing publications from our FAME-ous researchers!
 
 ## 2024
 
+### Complementary Non-invasive Fish Monitoring Distinguishes Depth-Dependent Fish Communities
+<small>Ewan Burns, Vijini Mallawaarachchi, Thomas M. Clarke, Belinda Martin, Joseph D. DiBattista, Jamie Hicks, Danny Brock, Elizabeth A. Dinsdale, Charlie Huveneers, Michael P. Doane (2024), [Environmental DNA](https://doi.org/10.1002/edn3.70050){:target="_blank"}</small>
+
+### Who bit the boat? New DNA collection and genomic methods enable species identification in suspected shark-related incidents
+<small>Belinda Martina, Michael P. Doanea, Jessica Henkensb, Jess A.T. Morganc, Laura Inglisa, Victor M. Peddemorsd, Elizabeth A. Dinsdalea, Charlie Huveneersb, Lauren Meyer (2024), [Forensic Science International: Genetics](https://doi.org/10.1016/j.fsigen.2024.103087){:target="_blank"}</small>
+
 ### Solving genomic puzzles: computational methods for metagenomic binning
 <small>Vijini Mallawaarachchi, Anuradha Wickramarachchi, Hansheng Xue, Bhavya Papudeshi, Susanna R Grigson, George Bouras, Rosa E Prahl, Anubhav Kaphle, Andrey Verich, Berenice Talamantes-Becerra, Elizabeth A Dinsdale, Robert A Edwards (2024), [Briefings in Bioinformatics](https://doi.org/10.1093/bib/bbae372){:target="_blank"}</small>
 
@@ -37,6 +43,9 @@ Check out these amazing publications from our FAME-ous researchers!
 <small>George Bouras, Susanna R Grigson, Bhavya Papudeshi, Vijini Mallawaarachchi, Michael J Roach (2024), [Journal of Open Source Software](https://doi.org/10.21105/joss.05968){:target="_blank"}</small>
 
 ## 2023
+
+### Towards unlocking the trophic roles of rarely encountered squid: Opportunistic samples of Taningia danae and a Chiroteuthis aff. veranii reveal that the Southern Ocean top predators are nutrient links connecting deep-sea and shelf-slope environments
+<small>Bethany Jackel, Ryan Baring, Michael P. Doane, Jessica Henkens, Belinda Martin, Kirsten Rough, Lauren Meyer (2023), [Frontiers in Marine Science](https://doi.org/10.3389/fmars.2023.1254461){:target="_blank"}</small>
 
 ### Knowing and Naming: Phage Annotation and Nomenclature for Phage Therapy
 <small>Susanna R Grigson, Sarah K Giles, Robert A Edwards, Bhavya Papudeshi (2023), [Clinical Infectious Diseases](https://doi.org/10.1093/cid/ciad539){:target="_blank"}</small>
