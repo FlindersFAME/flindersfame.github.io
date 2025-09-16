@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Boosting Bioinformatics Skills: Python Workshop Recap"
+title: "Marine Science Day 2024"
 author: Emma Kerr
 excerpt: Marine Science Day 2024 was a huge success! Seven CSE PhD students and faculty advisor Professor Dinsdale travelled to the Lincoln Marine Science Centre.
 expires: 2050-01-01
