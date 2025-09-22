@@ -158,7 +158,7 @@ Jody McKerral:
 
 Vijini Mallawaarachchi:
   name        : "Vijini Mallawaarachchi"
-  bio         : "Research Associate in Bioinformatics"
+  bio         : "Research Fellow in Bioinformatics"
   avatar      : "/assets/images/vijini.jpg"
   links:
     - label: "Email"
@@ -367,7 +367,7 @@ Kale Christopher:
 
 Belinda Martin:
   name        : "Belinda Martin"
-  bio         : "Research Associate"
+  bio         : "Research Fellow"
   avatar      : "/assets/images/Belinda.jpg"
   links:
     - label: "Email"
