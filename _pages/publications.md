@@ -16,7 +16,7 @@ Check out these amazing publications from our FAME-ous researchers!
 <small>Susanna R Grigson, George Bouras, Bas E Dutilh, Robert D Olson, Robert A Edwards (2025), [Microbiology and Molecular Biology Reviews](https://doi.org/10.1128/mmbr.00022-25){:target="_blank"}</small>
 
 ### GraphBin-Tk: assembly graph-based metagenomic binning toolkit
-<small>Vijini Mallawaarachchi, Anuradha Wickramarachchi, Robert McArthur, Yapeng Lang, Katherine Caley, Gavin Huttley (2025), [Bioinformatics Advances](https://doi.org/10.21105/joss.07713){:target="_blank"}</small>
+<small>Vijini Mallawaarachchi, Anuradha Wickramarachchi, Robert McArthur, Yapeng Lang, Katherine Caley, Gavin Huttley (2025), [The Journal of Open Source Software](https://doi.org/10.21105/joss.07713){:target="_blank"}</small>
 
 ### Draft genomes of five bacteria isolated from Carcharodon carcharias (white shark) and Carcharhinus brachyurus (bronze whaler shark)
 <small>Emma N Kerr, Ryan D Hesse, Jessica AP Carlson-Jones, Bhavya Nalagampalli Papudeshi, Paul A Butcher, Michael P Doane, Elizabeth A Dinsdale (2025), [Microbiology Resource Announcements](https://doi.org/10.1128/mra.00226-25){:target="_blank"}</small>
