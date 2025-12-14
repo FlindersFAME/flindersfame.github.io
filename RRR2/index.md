@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /rrr2/
-title: Rapid Respiratory Response in Rural and Remote RegionsPermalink
+title: Rapid Respiratory Response in Rural and Remote Regions
 author_profile: false
 ---
 
@@ -31,6 +31,8 @@ The RRR2 program aims to significantly reduce the morbidity and mortality associ
 Consent forms will be available here soon!
 
 
+
+### Access to the data for scientists
 
 {% for post in site.categories.RRR2 limit:10 %}
   {% include archive-single.html type=entries_layout %}
