@@ -5,7 +5,7 @@ title: Recent blog posts
 author_profile: true
 ---
 
-{% for post in site.categories.Blog limit:5 %}
+{% for post in site.categories.Blog limit:10 %}
   {% include archive-single.html type=entries_layout %}
 {% endfor %}
 
