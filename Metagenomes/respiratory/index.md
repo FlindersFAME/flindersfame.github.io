@@ -20,7 +20,7 @@ This controlled-access model enables us to maximise the scientific and clinical 
 
 ### Access to the data for scientists
 
-{% for post in site.categories.RRR2 limit:10 %}
+{% for post in site.categories.metagenomes.respiratory limit:10 %}
   {% include archive-single.html type=entries_layout %}
 {% endfor %}
 
