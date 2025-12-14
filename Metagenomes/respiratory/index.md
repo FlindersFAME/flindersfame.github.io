@@ -23,6 +23,7 @@ This controlled-access model enables us to maximise the scientific and clinical 
 {% assign posts = site.posts | where_exp: "post", "post.categories contains 'RRR2'" %}
 {% assign posts = posts | where_exp: "post", "post.categories contains 'metagenomes'" %}
 
+Done.
 
 {% for post in posts %}
   {% include archive-single.html type=entries_layout %}
