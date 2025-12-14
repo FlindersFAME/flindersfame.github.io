@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: Rapid Respiratory Response in Rural and Remote Regions
-permalink: /rrr2/
+permalink: /rrr2_old/
 ---
 
 ## Rapid Respiratory Response in Rural and Remote Regions
