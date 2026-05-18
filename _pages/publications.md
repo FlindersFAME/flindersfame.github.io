@@ -15,8 +15,14 @@ Check out these amazing publications from our FAME-ous researchers!
 ### piqtree: A Python Package for Seamless Phylogenetic Inference with IQ-TREE
 <small>Robert Neil McArthur, Thomas KF Neil Wong, Yapeng Lang, Richard Andrew Morris, Katherine Caley, Vijini Mallawaarachchi, Bui Quang Minh, Gavin A Huttley (2026), [Molecular Biology and Evolution](https://doi.org/10.1093/molbev/msag061){:target="_blank"}</small>
 
+### Functional redundancy and anaerobic metabolism characterize the skin microbiome of a critically endangered sawfish
+<small>Michael P. Doane, Belinda Martin, Emma Kerr, Elizabeth A. Dinsdale, Malak Malak Rangers, Leonardo Guida, Pete M. Kyne (2026), [bioRxiv](https://doi.org/10.64898/2026.03.05.709720){:target="_blank"}</small>
+
 ### Interactions of mucus monosaccharides and the epidermal microbiome in four benthic Elasmobranchs
 <small>Emma N Kerr, Long Yu, Ryan D Hesse, Chloe N Roberts, Vincent Bulone, Lauren Meyer, Robert A Edwards, Michael P Doane, Elizabeth A Dinsdale (2026), [Environmental Microbiology](https://doi.org/10.1111/1758-2229.70303){:target="_blank"}</small>
+
+### The epidermal ecotone: a proposed model system for marine viral ecology at the animal-environmental interface
+<small>Ryan D Hesse, Elizabeth A Dinsdale (2026), [npj Biofilms and Microbiomes](https://doi.org/10.1038/s41522-026-00939-3){:target="_blank"}</small>
 
 ### Soil Microbial Functions Indicate Persistent Agricultural Legacies and Potential Alternative States Following Restoration Plantings
 <small>Shawn D Peddle, Christian Cando‐Dumancela, Sofie Costin, Tarryn Davies, Michael P Doane, Robert A Edwards, Riley J Hodgson, Siegfried L Krauss, Craig Liddicoat, Martin F Breed (2026), [Ecology and Evolution](https://doi.org/10.1002/ece3.73172){:target="_blank"}</small>
@@ -24,8 +30,14 @@ Check out these amazing publications from our FAME-ous researchers!
 ### Protein Structure Informed Bacteriophage Genome Annotation with Phold
 <small>George Bouras, Susanna R Grigson, Milot Mirdita, Michael Heinzinger, Bhavya Papudeshi, Vijini Mallawaarachchi, Renee Green, Rachel Seongeun Kim, Victor Mihalia, Alkis James Psaltis, Peter-John Wormald, Sarah Vreugde, Martin Steinegger, Robert A Edwards(2026), [Nucleic Acids Research](https://doi.org/10.1093/nar/gkaf1448){:target="_blank"}</small>
 
+### Microbial Ecological Signatures Predict Pathogen Emergence and Multidrug Resistance in Cystic Fibrosis Airways up to a Year in Advance
+<small>Thomas R Goddard, Jessica AP Carlson-Jones, Morton Judith, Chee Y Ooi, Tai Andrew, Morgyn S Warner, Wong John, Ieuan ES Evans, Emily Hopkins, Jonathan R Iredell, Hubertus PA Jersmann, Katrine L Whiteson, George Bouras, Michael P Doane, Nicholas W Falk, Renee Green, Susanna R Grigson, Vijini Mallawaarachchi, Belinda Martin, Michael J Roach, Feargal J Ryan, Anita Tarasenko, Bhavya Papudeshi, Barbara Drigo, Sarah K Giles, Clarice M Harker, Ryan D Hesse, Riley J Hodgson, Art Hussnain, Abbey Hutton, Laura K Inglis, Christopher Keneally, Emma N Kerr, Craig Liddicoat, Shawn D Peddle, Carl D Watson, Qi Yang, Przemysław Decewicz, Peter G Speck, James G Mitchell, Elizabeth A Dinsdale, Robert A Edwards (2026), [medRxiv](https://doi.org/10.64898/2025.12.28.25342520){:target="_blank"}</small>
+
 
 ## 2025
+
+### Metagenomics reveals water, biofilm, and sediment microbial communities exhibit distinct responses and functions in neutral and metalliferous drainage (NMD)
+<small>Nicholas W. Falk, Haylee Smith, Bhavya Papudeshi, Belinda Martin, Gujie Qian, Andrea R. Gerson, Aneil Prasad, Sarah L. Harmer, Elizabeth A. Dinsdale (2025), [Environmental Geochemistry and Health](https://doi.org/10.1007/s10653-025-02840-y){:target="_blank"}</small>
 
 ### Picobirnavirus: how do you find where it’s hiding?
 <small>Abbey Hutton, Susanna Grigson, Louise Bartle, Vijini Mallawaarachchi, Anita Tarasenko, James Mitchell, Robert A Edwards (2025), [Critical Reviews in Microbiology](https://doi.org/10.1080/1040841X.2025.2560918){:target="_blank"}</small>
@@ -41,6 +53,9 @@ Check out these amazing publications from our FAME-ous researchers!
 
 ### Draft genomes of five bacteria isolated from Carcharodon carcharias (white shark) and Carcharhinus brachyurus (bronze whaler shark)
 <small>Emma N Kerr, Ryan D Hesse, Jessica AP Carlson-Jones, Bhavya Nalagampalli Papudeshi, Paul A Butcher, Michael P Doane, Elizabeth A Dinsdale (2025), [Microbiology Resource Announcements](https://doi.org/10.1128/mra.00226-25){:target="_blank"}</small>
+
+### Are sutures a pathway to infection? A multidisciplinary assessment of wound healing in sharks following internal acoustic tagging
+<small>Brittany Heath, Charlie Huveneers, Ryan D Hesse, Lewis Vaughan, Ondi L Crino, Chloe N Roberts, Xanthe Venn, Jordan K Matley (2025), [Wildlife Research](https://doi.org/10.1071/WR25009){:target="_blank"}</small>
 
 ### Sphae: an automated toolkit for predicting phage therapy candidates from sequencing data
 <small>Bhavya Papudeshi, Michael J Roach, Vijini Mallawaarachchi, George Bouras, Susanna R Grigson, Sarah K Giles, Clarice M Harker, Abbey LK Hutton, Anita Tarasenko, Laura K Inglis, Alejandro A Vega, Cole Souza, Lance Boling, Hamza Hajama, Ana Georgina Cobián Güemes, Anca M Segall, Elizabeth A Dinsdale, Robert A Edwards (2025), [Bioinformatics Advances](https://doi.org/10.1093/bioadv/vbaf004){:target="_blank"}</small>
