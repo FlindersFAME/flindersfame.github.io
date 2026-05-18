@@ -7,7 +7,28 @@ author_profile: true
 
 Check out these amazing publications from our FAME-ous researchers!
 
+## 2026
+
+### agtools: a software framework to manipulate assembly graphs
+<small>Vijini Mallawaarachchi, George Bouras, Ryan R Wick, Susanna R Grigson, Bhavya Papudeshi, Robert A Edwards (2026), [Bioinformatics Advances](https://doi.org/10.1093/bioadv/vbag126){:target="_blank"}</small>
+
+### piqtree: A Python Package for Seamless Phylogenetic Inference with IQ-TREE
+<small>Robert Neil McArthur, Thomas KF Neil Wong, Yapeng Lang, Richard Andrew Morris, Katherine Caley, Vijini Mallawaarachchi, Bui Quang Minh, Gavin A Huttley (2026), [Molecular Biology and Evolution](https://doi.org/10.1093/molbev/msag061){:target="_blank"}</small>
+
+### Interactions of mucus monosaccharides and the epidermal microbiome in four benthic Elasmobranchs
+<small>Emma N Kerr, Long Yu, Ryan D Hesse, Chloe N Roberts, Vincent Bulone, Lauren Meyer, Robert A Edwards, Michael P Doane, Elizabeth A Dinsdale (2026), [Environmental Microbiology](https://doi.org/10.1111/1758-2229.70303){:target="_blank"}</small>
+
+### Soil Microbial Functions Indicate Persistent Agricultural Legacies and Potential Alternative States Following Restoration Plantings
+<small>Shawn D Peddle, Christian Cando‐Dumancela, Sofie Costin, Tarryn Davies, Michael P Doane, Robert A Edwards, Riley J Hodgson, Siegfried L Krauss, Craig Liddicoat, Martin F Breed (2026), [Ecology and Evolution](https://doi.org/10.1002/ece3.73172){:target="_blank"}</small>
+
+### Protein Structure Informed Bacteriophage Genome Annotation with Phold
+<small>George Bouras, Susanna R Grigson, Milot Mirdita, Michael Heinzinger, Bhavya Papudeshi, Vijini Mallawaarachchi, Renee Green, Rachel Seongeun Kim, Victor Mihalia, Alkis James Psaltis, Peter-John Wormald, Sarah Vreugde, Martin Steinegger, Robert A Edwards(2026), [Nucleic Acids Research](https://doi.org/10.1093/nar/gkaf1448){:target="_blank"}</small>
+
+
 ## 2025
+
+### Picobirnavirus: how do you find where it’s hiding?
+<small>Abbey Hutton, Susanna Grigson, Louise Bartle, Vijini Mallawaarachchi, Anita Tarasenko, James Mitchell, Robert A Edwards (2025), [Critical Reviews in Microbiology](https://doi.org/10.1080/1040841X.2025.2560918){:target="_blank"}</small>
 
 ### Reprogramming resistance: phage-antibiotic synergy targets efflux systems in ESKAPEE pathogens
 <small>Anita Tarasenko, Bhavya N Papudeshi, Susanna R Grigson, Vijini Mallawaarachchi, Abbey LK Hutton, Morgyn S Warner, Jeremy J Barr, Jon Iredell, Bart Eijkelkamp, Robert A Edwards (2025), [mBio](https://doi.org/10.1128/mbio.01822-25){:target="_blank"}</small>
