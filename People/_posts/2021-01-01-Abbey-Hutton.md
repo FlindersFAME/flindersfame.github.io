@@ -2,7 +2,7 @@
 layout: archive
 title: Abbey Hutton
 author: Abbey Hutton
-tag: Students
+tag: Alumni
 excerpt: "PhD student in the Edwards lab\n"
 ---
 

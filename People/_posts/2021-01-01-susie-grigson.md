@@ -2,7 +2,7 @@
 layout: archive
 title: Susie Grigson
 author: Susie Grigson
-tag: Students
+tag: Alumni
 excerpt: "PhD student in the Edwards lab\n"
 ---
 

@@ -2,7 +2,7 @@
 layout: archive
 title: Laura Inglis
 author: Laura Inglis
-tag: Students
+tag: Alumni
 excerpt: "PhD student in the Edwards lab\n"
 ---
 
