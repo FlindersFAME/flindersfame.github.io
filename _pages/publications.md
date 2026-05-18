@@ -62,6 +62,9 @@ Check out these amazing publications from our FAME-ous researchers!
 
 ## 2024
 
+### A novel genus of Pectobacterium bacteriophages display broad host range by targeting several species of Danish soft rot isolates
+<small>Julie Stenberg Pedersen, Alexander Byth Carstens, Magnus Mulbjerg Rothgard, Chayan Roy, Anouk Viry, Bhavya Papudeshi, Witold Kot, Frank Hille, Charles MAP Franz, Robert Edwards, Lars Hestbjerg Hansen (2024), [Virus Research](https://doi.org/10.1016/j.virusres.2024.199435){:target="_blank"}</small>
+
 ### Complementary Non-invasive Fish Monitoring Distinguishes Depth-Dependent Fish Communities
 <small>Ewan Burns, Vijini Mallawaarachchi, Thomas M. Clarke, Belinda Martin, Joseph D. DiBattista, Jamie Hicks, Danny Brock, Elizabeth A. Dinsdale, Charlie Huveneers, Michael P. Doane (2024), [Environmental DNA](https://doi.org/10.1002/edn3.70050){:target="_blank"}</small>
 
