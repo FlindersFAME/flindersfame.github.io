@@ -2,7 +2,7 @@
 layout: archive
 title: Sein Hwang
 author: Sein Hwang
-tag: Students
+tag: Alumni
 excerpt: "Honours student in the Dinsdale lab\n"
 ---
 

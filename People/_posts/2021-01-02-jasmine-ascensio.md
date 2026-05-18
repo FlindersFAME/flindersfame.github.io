@@ -2,7 +2,7 @@
 layout: archive
 title: Jasmine Ascensio
 author: Jasmine Ascensio
-tag: Students
+tag: Alumni
 excerpt: "Undergraduate student in the Dinsdale lab\n"
 ---
 

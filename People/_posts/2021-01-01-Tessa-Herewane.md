@@ -2,7 +2,7 @@
 layout: archive
 title: Tessa Herewane
 author: Tessa Herewane
-tag: Students
+tag: Alumni
 excerpt: "Undergraduate student in the Dinsdale lab\n"
 ---
 
