@@ -202,9 +202,6 @@ Check out these amazing publications from our FAME-ous researchers!
 ### Single-cell gene expression links SARS-CoV-2 infection and gut serotonin
 <small>Alyce M Martin, Michael Roach, Lauren A Jones, Daniel Thorpe, Rosemary A Coleman, Caitlin Allman, Robert Edwards, Damien J Keating (2022), [Gut](https://doi.org/10.1136/gutjnl-2022-328262){:target="_blank"}</small>
 
-### Hecatomb: An End-to-End Research Platform for Viral Metagenomics
-<small>Michael Roach, Sarah Beecroft, Kathie A Mihindukulasuriya, Leran Wang, Lais Farias Oliveira Lima, Elizabeth A Dinsdale, Robert A Edwards, Scott A Handley (2022), [BioRxiv](https://doi.org/10.1101/2022.05.15.492003){:target="_blank"}</small>
-
 ### The StkSR Two-Component System Influences Colistin Resistance in Acinetobacter baumannii
 <small>Sarah K Giles, Uwe H Stroeher, Bhavya Papudeshi, Robert A Edwards, Jessica AP Carlson-Jones, Michael Roach, Melissa H Brown (2022), [Microorganisms](https://doi.org/10.3390/microorganisms10050985){:target="_blank"}</small>
 
