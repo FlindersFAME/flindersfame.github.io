@@ -37,6 +37,22 @@ of those affected by cystic fibrosis and other respiratory-related conditions.
 
 From Left to Right: Dr Jude Morton (RAH), Associate Professor Jon Koff (Yale School of Medicine), Dr Jessica  Carlson-Jones (Flinders) and Dr Tom Goddard (WCH and FMC).
 
+
+## RRR2: Rapid Respiratory Response in Rural and Remote Regions
+
+Respiratory infections are a major health concern for children living in rural and remote communities across Australia, particularly among First Nations children, who experience some of the highest rates of bronchiectasis worldwide. This chronic lung condition is characterised by persistent airway inflammation and recurrent infections, which can lead to long-term respiratory impairment if not managed effectively. Current microbiological diagnostic approaches can be slow and may fail to detect important pathogens, including viruses, fungi, and mycobacteria. This can limit the information available to guide treatment decisions.
+
+To overcome these challenges, the RRR2 project is developing a portable, DNA sequencing-based diagnostic pipeline capable of identifying bacteria and viruses within 24 hours. This rapid microbiome-informed approach is being tailored for use in communities with limited access to laboratory services, such as Alice Springs and Mt Gambier, enabling more timely and targeted treatment.
+
+By delivering faster and more accurate diagnostic results, this project aims to reduce the need for children to travel long distances for care, avoid delays in treatment, and ultimately improve respiratory health outcomes for children in remote and underserved regions.
+
+This research is funded by the Women’s & Children’s Hospital Foundation Bloom Research Grant.
+
+For more information on the project, including updates and progress, please visit the [RRR2 project page](https://fame.flinders.edu.au/rrr2/).
+
+![](/assets/images/RRR2_Grant_Team.JPEG)
+
+
 ## Viruses & Inflammatory Bowel Disease
 
 FAME is part of a large international consortium with Addenbrookes Hospital, Cambridge, UK, San Diego State University, California, USA, and Washington University, St. Louis, USA. NIH NIDDK RC2DK116713 funds this project. 
