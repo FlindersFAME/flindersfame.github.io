@@ -2,7 +2,7 @@
 layout: archive
 title: Sophie Loveys
 author: Sophie Loveys
-tag: Honours Student
+tag: Students
 excerpt: "Honours student in the Edwards lab\n"
 ---
 

@@ -2,7 +2,7 @@
 layout: archive
 title: Renee Green
 author: Renee Green
-tag: Honours Student
+tag: Students
 excerpt: "Honours student in the Edwards lab\n"
 ---
 
