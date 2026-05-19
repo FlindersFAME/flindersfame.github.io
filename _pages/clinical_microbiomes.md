@@ -52,6 +52,8 @@ For more information on the project, including updates and progress, please visi
 
 ![](/assets/images/RRR2_Grant_Team.JPEG)
 
+Photo credit: InDaily South Australia
+
 
 ## Viruses & Inflammatory Bowel Disease
 
