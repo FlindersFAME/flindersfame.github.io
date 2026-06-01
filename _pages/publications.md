@@ -9,6 +9,9 @@ Check out these amazing publications from our FAME-ous researchers!
 
 ## 2026
 
+### Computational prediction resolves thousands of homooligomeric phage protein structures
+<small>Susanna R Grigson, Natia Geliashvili, Torsten Schubert, George Bouras, Vijini Mallawaarachchi, Marta Bogacz, Ute Hellmich, Robert A Edwards, Bas E Dutilh (2026), [bioRxiv](https://doi.org/10.64898/2026.05.24.727406){:target="_blank"}</small>
+
 ### agtools: a software framework to manipulate assembly graphs
 <small>Vijini Mallawaarachchi, George Bouras, Ryan R Wick, Susanna R Grigson, Bhavya Papudeshi, Robert A Edwards (2026), [Bioinformatics Advances](https://doi.org/10.1093/bioadv/vbag126){:target="_blank"}</small>
 
