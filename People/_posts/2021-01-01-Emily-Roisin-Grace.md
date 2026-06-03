@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: Emily Roisin Grace
-author: Emily Roisin Grace
+title: Emily Grace
+author: Emily Grace
 tag: Researchers
 excerpt: "Research Associate in Phage Gene Regulation in the Edwards lab\n"
 ---
