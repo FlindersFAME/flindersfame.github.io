@@ -5,9 +5,6 @@ title: Rapid Respiratory Response in Rural and Remote Regions
 author_profile: false
 ---
 
-# Rapid Respiratory Response in Rural and Remote Regions
-
-## RRR<sup>2</sup>: Using rapid DNA sequencing to improve respiratory infection care in rural and remote communities
 
 RRR<sup>2</sup> is testing whether portable DNA sequencing can help clinicians understand respiratory infections faster in children with bronchiectasis living in regional, rural, and remote communities.
 
