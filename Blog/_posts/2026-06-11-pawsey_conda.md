@@ -44,7 +44,7 @@ The alternative is to use a name that you will remember, but then you also need 
 
 Let's walk through setting up your conda, installing some software, remembering how to do it, and deleting the environment.
 
-For this example, I'm going to use [autocycler](https://github.com/rrwick/Autocycler) as my software to install, and I'll also install [minimap2](https://github.com/lh3/minimap2) and [samtools](https://github.com/samtools/samtools).
+For this example, I'm going to use [autocycler](https://github.com/rrwick/Autocycler) as my software to install, and I'll also install the [long read assemblers recommended by Ryan Wick](https://github.com/rrwick/Autocycler/blob/main/pipelines/Conda_environment_file_by_Ryan_Wick/environment.yml)
 
 ## Install conda/mamba
 
@@ -83,9 +83,22 @@ channels:
    - conda-forge
    - bioconda
 dependencies:
-   - samtools>=1.20
-   - minimap2>=2.29
-   - autocycler
+  - autocycler>=0.5.0            # https://github.com/rrwick/Autocycler
+  - canu>=2.3                    # https://github.com/marbl/canu
+  - flye>=2.9.6                  # https://github.com/mikolmogorov/Flye
+#  - lja>=0.2                     # https://github.com/AntonBankevich/LJA
+  - metamdbg>=1.0                # https://github.com/GaetanBenoitDev/metaMDBG
+  - miniasm>=0.3                 # https://github.com/lh3/miniasm
+  - minimap2>=2.28               # https://github.com/lh3/minimap2
+  - minipolish>=0.2.0            # https://github.com/rrwick/Minipolish
+  - myloasm>=0.1.0               # https://github.com/bluenote-1577/myloasm
+  - necat>=0.0.1_update20200803  # https://github.com/xiaochuanle/NECAT
+  - nextdenovo>=2.5.2            # https://github.com/Nextomics/NextDenovo
+  - nextpolish>=1.4.1            # https://github.com/Nextomics/NextPolish
+  - plassembler>=1.8.0           # https://github.com/gbouras13/plassembler
+  - racon>=1.5.0                 # https://github.com/lbcb-sci/racon
+  - raven-assembler>=1.8.3       # https://github.com/lbcb-sci/raven
+  - wtdbg>=2.5                   # https://github.com/ruanjue/wtdbg2
 ```
 
 > _Notes:_ 
