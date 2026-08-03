@@ -15,6 +15,9 @@ Check out these amazing publications from our FAME-ous researchers!
 ### Host species background, defence systems, and phage tail gene architecture shape phage infectivity in cystic fibrosis-associated Achromobacter
 <small>Anita Tarasenko, Bhavya Papudeshi, Van Nguyen, Susanna Rose Grigson, George Bouras, Vijini Mallawaarachchi, Kelly Hutton, Abbey Louise, Renee Green, Jack Ramsay, Hamza Hajama, Ana Georgina Cobian-Guemes, Anca Mara Segall, Morgyn Warner, Sarah Giles, Clarice Harker, Robert A Edwards (2026), [bioRxiv](https://doi.org/10.64898/2026.06.29.735440){:target="_blank"}</small>
 
+### Co-migration of hundreds of microbial species over metres drives selection and promotes non-motile hitchhikers
+<small>Susanna R Grigson, Abbey LK Hutton, Jessica AP Carlson-Jones, James S Paterson, Sarah K Giles, Clarice M Harker, Amelia K Grigson, Amy N Annells, Michael J Roach, Peter G Speck, Robert A Edwards, James G Mitchell (2026), [Nature Communications](https://doi.org/10.1038/s41467-026-72998-1){:target="_blank"}</small>
+
 ### Computational prediction resolves thousands of homooligomeric phage protein structures
 <small>Susanna R Grigson, Natia Geliashvili, Torsten Schubert, George Bouras, Vijini Mallawaarachchi, Marta Bogacz, Ute Hellmich, Robert A Edwards, Bas E Dutilh (2026), [bioRxiv](https://doi.org/10.64898/2026.05.24.727406){:target="_blank"}</small>
 
