@@ -18,6 +18,9 @@ Check out these amazing publications from our FAME-ous researchers!
 ### Co-migration of hundreds of microbial species over metres drives selection and promotes non-motile hitchhikers
 <small>Susanna R Grigson, Abbey LK Hutton, Jessica AP Carlson-Jones, James S Paterson, Sarah K Giles, Clarice M Harker, Amelia K Grigson, Amy N Annells, Michael J Roach, Peter G Speck, Robert A Edwards, James G Mitchell (2026), [Nature Communications](https://doi.org/10.1038/s41467-026-72998-1){:target="_blank"}</small>
 
+### Baktfold: Sensitive protein functional annotation across the microbial tree of life using structural information
+<small>George Bouras, Sung won Lim, Lindsay Durr, Sarah Vreugde, Alexander Goesmann, Robert A Edwards, Oliver Schwengers (2026), [bioRxiv](https://doi.org/10.64898/2026.03.31.715528){:target="_blank"}</small>
+
 ### Computational prediction resolves thousands of homooligomeric phage protein structures
 <small>Susanna R Grigson, Natia Geliashvili, Torsten Schubert, George Bouras, Vijini Mallawaarachchi, Marta Bogacz, Ute Hellmich, Robert A Edwards, Bas E Dutilh (2026), [bioRxiv](https://doi.org/10.64898/2026.05.24.727406){:target="_blank"}</small>
 
