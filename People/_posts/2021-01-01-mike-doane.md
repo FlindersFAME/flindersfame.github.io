@@ -2,7 +2,7 @@
 layout: archive
 title: Michael Doane
 author: Michael Doane
-tag: Researchers
+tag: Alumni
 excerpt: "FAME Liaison and Research Fellow in the Dinsdale lab\n"
 ---
 
