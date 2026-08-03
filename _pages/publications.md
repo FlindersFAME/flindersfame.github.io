@@ -9,6 +9,9 @@ Check out these amazing publications from our FAME-ous researchers!
 
 ## 2026
 
+### Standard and imaging flow cytometry for environmental microplastic detection: progress, challenges, and future directions
+<small>Georgina H. Tilly-Scholes, Abbey L. K. Hutton, Anita Tarasenko, Jessica A. P. Carlson-Jones, James S. Paterson, James G. Mitchell, Oliver G. Best  (2026), [Microplastics and Nanoplastics](https://doi.org/10.1186/s43591-026-00217-1){:target="_blank"}</small>
+
 ### Decoding Viral Dark Matter: Metagenomic Prokaryotic Virus Characterization With Pharokka, Phold, and Phynteny
 <small>George Bouras, Susanna R. Grigson, Lindsay Durr, Bhavya Papudeshi, Vijini Mallawaarachchi, Sarah Vreugde, Robert A. Edwards (2026), [Current Protocols](https://doi.org/10.1002/cpz1.70405){:target="_blank"}</small>
 
