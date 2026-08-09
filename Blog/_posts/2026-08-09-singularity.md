@@ -1,12 +1,11 @@
 ---
 layout: single
 show_date: true
-title: "The 
+title: "Vibe coding, vibe analysing, and the singularity."
 author: Robert Edwards
-excerpt: 
+excerpt: Recently, we've been vibe coding bioinformatics projects and vibe analysing bioinformatics data. Have we reached the singularity yet?
 ---
 ![](/assets/images/singularity.png)
-
 
 # Vibe coding, vibe analysing, and the singularity.
 
