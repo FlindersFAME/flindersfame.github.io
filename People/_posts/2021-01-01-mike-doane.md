@@ -3,7 +3,7 @@ layout: archive
 title: Michael Doane
 author: Michael Doane
 tag: Researchers
-excerpt: "Adjunct Research Fellow in the Dinsdale lab\n"
+excerpt: "Adjunct Research Fellow in the FAME\n"
 ---
 
 My research seeks to understand how life organizes across nested ecological scales, from the genomic landscape, where genes and epigenetic interactions form ecosystems within DNA, to the vast oceanic systems that sustain global biodiversity. Using molecular and genomic tools, I explore how these layers of biological organization—genomes, microbiomes, hosts, and environments—are interlinked, each regulating and responding to the other. This “ecosystems within ecosystems” framework, akin to a Russian doll, guides my work toward uncovering the feedbacks that connect molecular processes to ecological patterns, revealing how life’s smallest systems shape, and are shaped by, the largest.
