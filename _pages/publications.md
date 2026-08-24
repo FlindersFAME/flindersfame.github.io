@@ -9,6 +9,9 @@ Check out these amazing publications from our FAME-ous researchers!
 
 ## 2026
 
+### DNA sequencing for microbial surveillance in cystic fibrosis airways: advances, challenges, and clinical translation
+<small>Jessica AP Carlson-Jones, Thomas R Goddard, Bhavya Papudeshi, Vijini Mallawaarachchi, Katrine L Whiteson, Morgyn S Warner, Judith M Morton, Hubertus PA Jersmann, Robert A Edwards (2026), [Clinical Microbiology Reviews](https://doi.org/10.1128/cmr.00352-25){:target="_blank"}</small>
+
 ### Standard and imaging flow cytometry for environmental microplastic detection: progress, challenges, and future directions
 <small>Georgina H. Tilly-Scholes, Abbey L. K. Hutton, Anita Tarasenko, Jessica A. P. Carlson-Jones, James S. Paterson, James G. Mitchell, Oliver G. Best  (2026), [Microplastics and Nanoplastics](https://doi.org/10.1186/s43591-026-00217-1){:target="_blank"}</small>
 
