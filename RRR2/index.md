@@ -137,6 +137,10 @@ The form asks the participant to agree to specific parts of the study, including
 
 [Download: Child/Participant Agreement Form](assets/2025_GEMS045251-Agreement_Form_V4_11-NOV-2025.pdf)
 
+## Press about our study
+
+We have received some [press coverage of our study](_posts/20260827-newsarticles.md). Much of this is focussed on the technology and approaches we use.
+
 ## Questions about the study
 
 For more information about the RRR<sup>2</sup> study, please contact:
