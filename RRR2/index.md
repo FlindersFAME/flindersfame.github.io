@@ -139,7 +139,7 @@ The form asks the participant to agree to specific parts of the study, including
 
 ## Press about our study
 
-We have received some [press coverage of our study](_posts/20260827-newsarticles.md). Much of this is focussed on the technology and approaches we use.
+we have received some [press coverage of our study](https://fame.flinders.edu.au/rrr2/2026/08/27/newsarticles). We wrote an informative article about how we can use DNA sequencing to diagnose lung diseases.
 
 ## Questions about the study
 
