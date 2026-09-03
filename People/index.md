@@ -13,7 +13,7 @@ ptags:
 
 # FAME-ous People!
 
-![](/assets/images/peeps.jpg)
+![](/assets/images/FAME_lab_photo_2026.jpg)
 
 {% for ptag in page.ptags %}
 ## {{ ptag }}
@@ -29,3 +29,9 @@ ptags:
     {% endif %}
   {% endfor %}
 {% endfor %}
+
+## Previous lab photos
+
+### 2022 - 2025
+
+![](/assets/images/FAME_lab_photo_2022.jpg)
