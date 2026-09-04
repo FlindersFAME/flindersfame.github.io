@@ -1064,3 +1064,13 @@ Emily Grace:
       - label: "LinkedID"
         icon: "fa-brands fa-fw fa-linkedin"
         url: " https://www.linkedin.com/in/emily-grace-680a021a0/"
+
+
+Jing Teng:
+  name        : "Jing Teng"
+  bio         : "Masters Student"
+  avatar      : "/assets/images/Jing.jpg"
+  links:
+    - label: "Email"
+      icon: "fa-solid fa-fw fa-square-envelope"
+      url: "mailto:teng0068@flinders.edu.au"
